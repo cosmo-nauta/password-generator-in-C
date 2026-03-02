@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -108,5 +107,4 @@ int main(int argc, char* argv[])
     
 	printf("%s\n", password);
 	return 0;
->>>>>>> 55747d7d0c9834e163fc3725f183faa201f3318e
 }
